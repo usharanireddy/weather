@@ -1,0 +1,32 @@
+*{
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    text-transform:capitalize;
+    transition: .3s ease;
+   
+
+}
+
+#form input{
+    padding: 10px;
+    width: 150px;
+    margin-left: 1px;
+    font-size: large;
+    color:rgb(8, 14, 14);
+    box-shadow: 3px black;
+    background-color:  pink;
+}
+button{
+    font-size: large;
+    color:rgb(12, 10, 10);
+    border-radius:8px ;
+    width:120px;
+    height:30px;
+    background-color: rgb(234, 226, 226);
+    
+
+}
+body h1{
+    margin-top:100px;
+    color:white;
+}
